@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Let\'s Draw</string>
+    <dimen name="small_brush">5dp</dimen>
+    <integer name="small_size">5</integer>
+    <dimen name="medium_brush">10dp</dimen>
+    <integer name="meldium_size">10</integer>
+    <dimen name="large_brush">25dp</dimen>
+    <integer name="large_size">25</integer>
+    <string name="start_new">New</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="choose_size">Choose Size</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="sb_default_value">0</string>
+    <string name="share">Share</string>
+    <string name="new_page">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+
+</resources>
